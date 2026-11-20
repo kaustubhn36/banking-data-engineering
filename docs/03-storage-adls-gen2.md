@@ -274,4 +274,4 @@ When finished, reply with your answers to **7–10** and **"Module 3 done"**.
 
 ---
 
-⬅️ [Module 2: Resource Group](02-azure-resource-group.md) · ➡️ Module 4: SQL Server fundamentals and BankingDB (next)
+⬅️ [Module 2: Resource Group](02-azure-resource-group.md) · ➡️ [Module 4: SQL Server fundamentals and BankingDB](04-sql-server-bankingdb.md)

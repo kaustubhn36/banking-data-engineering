@@ -44,9 +44,9 @@ The full architecture is described in [Module 1](docs/01-project-overview.md#4-a
 | 1 | [Project introduction, architecture, prerequisites](docs/01-project-overview.md) | ✅ Done |
 | 2 | [Azure Resource Group](docs/02-azure-resource-group.md) · [Step-by-step lab](docs/02-lab-azure-resource-group.md) | ✅ Done |
 | 3 | [Storage Account and ADLS Gen2](docs/03-storage-adls-gen2.md) · [Step-by-step lab](docs/03-lab-storage-adls-gen2.md) | ✅ Done |
-| 4 | [SQL Server fundamentals and BankingDB](docs/04-sql-server-bankingdb.md) · [Step-by-step lab](docs/04-lab-sql-server-bankingdb.md) | ✅ Available |
-| 5 | Azure Data Factory setup | ⬜ Next |
-| 6 | ADF activities | ⬜ |
+| 4 | [SQL Server fundamentals and BankingDB](docs/04-sql-server-bankingdb.md) · [Step-by-step lab](docs/04-lab-sql-server-bankingdb.md) | ✅ Done |
+| 5 | [Azure Data Factory setup](docs/05-azure-data-factory-setup.md) · [Step-by-step lab](docs/05-lab-azure-data-factory-setup.md) | ✅ Available |
+| 6 | ADF activities | ⬜ Next |
 | 7 | ADF pipelines | ⬜ |
 | 8 | Azure Databricks setup | ⬜ |
 | 9 | PySpark fundamentals | ⬜ |
@@ -84,27 +84,31 @@ banking-data-engineering/
 │   ├── 03-lab-storage-adls-gen2.md   Module 3 (step-by-step lab with pictures)
 │   ├── 04-sql-server-bankingdb.md    Module 4 (theory)
 │   ├── 04-lab-sql-server-bankingdb.md  Module 4 (step-by-step lab with pictures)
-│   └── images/                       Lab pictures (module-02/ to module-04/)
+│   ├── 05-azure-data-factory-setup.md  Module 5 (theory)
+│   ├── 05-lab-azure-data-factory-setup.md  Module 5 (step-by-step lab with pictures)
+│   └── images/                       Lab pictures (module-02/ to module-05/)
 ├── sql-server/                       Module 4: BankingDB scripts, run in order 01 → 06
 │   ├── 01_create_database.sql
 │   ├── 02_create_tables.sql
 │   ├── 03_load_data.sql
 │   ├── 04_data_profiling.sql
 │   ├── 05_sql_practice.sql
-│   └── 06_views_and_procedures.sql
+│   ├── 06_views_and_procedures.sql
+│   └── 07_adf_reader_permissions.sql  Module 5: read-only login for ADF
 └── scripts/
     ├── generate_datasets.py          Reproducible data generator (seeded)
     └── azure/
         ├── 01_resource_group.sh      Module 2: resource group, tags, providers (Azure CLI)
-        └── 02_storage_account.sh     Module 3: ADLS Gen2 account, folders, upload (Azure CLI)
+        ├── 02_storage_account.sh     Module 3: ADLS Gen2 account, folders, upload (Azure CLI)
+        └── 03_data_factory.sh        Module 5: Data Factory, Key Vault, role assignments (Azure CLI)
 ```
 
-Folders for `adf/`, `databricks/`, `architecture/` and `exercises/` are added as each module is completed.
+The `adf/` folder is written by Azure Data Factory itself through Git integration (Module 5). Folders for `databricks/`, `architecture/` and `exercises/` are added as each module is completed.
 
 ## Data and security
 
 - All data is **fictional**. No real customer or banking information is used.
-- No passwords, keys or connection strings are stored in this repository. Secrets are kept in Azure Key Vault (Module 14). `.gitignore` blocks common secret files.
+- No passwords, keys or connection strings are stored in this repository. Secrets are kept in Azure Key Vault (from Module 5) and read by managed identities. `.gitignore` blocks common secret files.
 
 ## License
 

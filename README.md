@@ -43,9 +43,9 @@ The full architecture is described in [Module 1](docs/01-project-overview.md#4-a
 |---|---|---|
 | 1 | [Project introduction, architecture, prerequisites](docs/01-project-overview.md) | ✅ Done |
 | 2 | [Azure Resource Group](docs/02-azure-resource-group.md) · [Step-by-step lab](docs/02-lab-azure-resource-group.md) | ✅ Done |
-| 3 | [Storage Account and ADLS Gen2](docs/03-storage-adls-gen2.md) · [Step-by-step lab](docs/03-lab-storage-adls-gen2.md) | ✅ Available |
-| 4 | SQL Server fundamentals and BankingDB | ⬜ Next |
-| 5 | Azure Data Factory setup | ⬜ |
+| 3 | [Storage Account and ADLS Gen2](docs/03-storage-adls-gen2.md) · [Step-by-step lab](docs/03-lab-storage-adls-gen2.md) | ✅ Done |
+| 4 | [SQL Server fundamentals and BankingDB](docs/04-sql-server-bankingdb.md) · [Step-by-step lab](docs/04-lab-sql-server-bankingdb.md) | ✅ Available |
+| 5 | Azure Data Factory setup | ⬜ Next |
 | 6 | ADF activities | ⬜ |
 | 7 | ADF pipelines | ⬜ |
 | 8 | Azure Databricks setup | ⬜ |
@@ -82,7 +82,16 @@ banking-data-engineering/
 │   ├── 02-lab-azure-resource-group.md  Module 2 (step-by-step lab with pictures)
 │   ├── 03-storage-adls-gen2.md       Module 3 (theory)
 │   ├── 03-lab-storage-adls-gen2.md   Module 3 (step-by-step lab with pictures)
-│   └── images/                       Lab pictures (module-02/, module-03/)
+│   ├── 04-sql-server-bankingdb.md    Module 4 (theory)
+│   ├── 04-lab-sql-server-bankingdb.md  Module 4 (step-by-step lab with pictures)
+│   └── images/                       Lab pictures (module-02/ to module-04/)
+├── sql-server/                       Module 4: BankingDB scripts, run in order 01 → 06
+│   ├── 01_create_database.sql
+│   ├── 02_create_tables.sql
+│   ├── 03_load_data.sql
+│   ├── 04_data_profiling.sql
+│   ├── 05_sql_practice.sql
+│   └── 06_views_and_procedures.sql
 └── scripts/
     ├── generate_datasets.py          Reproducible data generator (seeded)
     └── azure/
@@ -90,7 +99,7 @@ banking-data-engineering/
         └── 02_storage_account.sh     Module 3: ADLS Gen2 account, folders, upload (Azure CLI)
 ```
 
-Folders for `sql-server/`, `adf/`, `databricks/`, `architecture/` and `exercises/` are added as each module is completed.
+Folders for `adf/`, `databricks/`, `architecture/` and `exercises/` are added as each module is completed.
 
 ## Data and security
 

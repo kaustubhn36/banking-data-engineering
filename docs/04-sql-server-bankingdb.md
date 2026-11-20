@@ -259,4 +259,4 @@ When finished, reply with your answers to **4–9** and **"Module 4 done"**.
 
 ---
 
-⬅️ [Module 3: Storage Account and ADLS Gen2](03-storage-adls-gen2.md) · ➡️ Module 5: Azure Data Factory setup (next)
+⬅️ [Module 3: Storage Account and ADLS Gen2](03-storage-adls-gen2.md) · ➡️ [Module 5: Azure Data Factory setup](05-azure-data-factory-setup.md)

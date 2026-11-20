@@ -261,8 +261,8 @@ Choose **one** region and use it for every resource, for example **Central India
 | # | Module | Main skills | Status |
 |---|---|---|---|
 | 1 | Project introduction, architecture, prerequisites | Concepts, medallion, tooling | ✅ Done |
-| 2 | [Azure Resource Group](02-azure-resource-group.md) | Azure portal, RBAC basics, budgets | ✅ Available |
-| 3 | Storage Account and ADLS Gen2 | Hierarchical namespace, containers, upload data | ⬜ |
+| 2 | [Azure Resource Group](02-azure-resource-group.md) | Azure portal, RBAC basics, budgets | ✅ Done |
+| 3 | [Storage Account and ADLS Gen2](03-storage-adls-gen2.md) | Hierarchical namespace, containers, upload data | ✅ Available |
 | 4 | SQL Server fundamentals and BankingDB | DDL, keys, joins, CTEs, window functions, procedures | ⬜ |
 | 5 | Azure Data Factory setup | Linked services, datasets, integration runtimes | ⬜ |
 | 6 | ADF activities (one by one) | Copy, Lookup, Get Metadata, ForEach, If, Switch, Filter, variables | ⬜ |

@@ -352,4 +352,4 @@ When finished, reply with your answers to **5, 6 and 7** and **"Module 2 done"**
 
 ---
 
-⬅️ [Module 1: Project overview](01-project-overview.md) · ➡️ Module 3: Storage Account and ADLS Gen2 (next)
+⬅️ [Module 1: Project overview](01-project-overview.md) · ➡️ [Module 3: Storage Account and ADLS Gen2](03-storage-adls-gen2.md)

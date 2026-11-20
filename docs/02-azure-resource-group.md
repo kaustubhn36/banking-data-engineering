@@ -74,6 +74,8 @@ In this learning project we only need **`rg-banking-dev`**.
 
 ## 4. Azure portal steps
 
+> 👉 **Beginner?** Follow the picture-by-picture version instead: [Module 2 Lab: step by step](02-lab-azure-resource-group.md).
+
 > Before you start: sign in at <https://portal.azure.com> with the account that has your subscription.
 
 ### Step 4.1: Check your subscription and your role

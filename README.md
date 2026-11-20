@@ -42,7 +42,7 @@ The full architecture is described in [Module 1](docs/01-project-overview.md#4-a
 | # | Module | Status |
 |---|---|---|
 | 1 | [Project introduction, architecture, prerequisites](docs/01-project-overview.md) | ✅ Done |
-| 2 | [Azure Resource Group](docs/02-azure-resource-group.md) | ✅ Available |
+| 2 | [Azure Resource Group](docs/02-azure-resource-group.md) · [Step-by-step lab](docs/02-lab-azure-resource-group.md) | ✅ Available |
 | 3 | Storage Account and ADLS Gen2 | ⬜ Next |
 | 4 | SQL Server fundamentals and BankingDB | ⬜ |
 | 5 | Azure Data Factory setup | ⬜ |
@@ -78,7 +78,9 @@ banking-data-engineering/
 │   └── payments.json                 601 records (JSON Lines)
 ├── docs/
 │   ├── 01-project-overview.md        Module 1
-│   └── 02-azure-resource-group.md    Module 2
+│   ├── 02-azure-resource-group.md    Module 2 (theory)
+│   ├── 02-lab-azure-resource-group.md  Module 2 (step-by-step lab with pictures)
+│   └── images/module-02/             Lab illustrations (SVG)
 └── scripts/
     ├── generate_datasets.py          Reproducible data generator (seeded)
     └── azure/

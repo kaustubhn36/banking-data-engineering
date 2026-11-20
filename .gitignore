@@ -1,0 +1,23 @@
+# Secrets - never commit
+.env
+*.env
+*.pfx
+*.pem
+*.key
+secrets/
+local.settings.json
+*credentials*.json
+
+# Databricks / Python
+.databricks/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+*.bak
+~$*

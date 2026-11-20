@@ -59,7 +59,7 @@ You need the **Owner** role so that in later modules you can give Data Factory a
 
 **2a. Open your subscription**
 
-![Search for Subscriptions](images/module-02/01-search-subscriptions.svg)
+![Search for Subscriptions](images/module-02/01-search-subscriptions.png)
 
 1. Click the **search bar** at the top and type `Subscriptions`.
 2. Under **Services**, click **Subscriptions**.
@@ -67,7 +67,7 @@ You need the **Owner** role so that in later modules you can give Data Factory a
 
 **2b. View your access**
 
-![Access control: View my access](images/module-02/02-view-my-access.svg)
+![Access control: View my access](images/module-02/02-view-my-access.png)
 
 1. In the left menu, click **Access control (IAM)**.
 2. Click the **Check access** tab.
@@ -87,7 +87,7 @@ You need the **Owner** role so that in later modules you can give Data Factory a
 1. Click the search bar, type `Resource groups` and open **Resource groups**.
 2. Click **+ Create** at the top left.
 
-![Create a resource group: Basics tab](images/module-02/03-create-rg-basics.svg)
+![Create a resource group: Basics tab](images/module-02/03-create-rg-basics.png)
 
 3. Fill in the **Basics** tab:
 
@@ -107,7 +107,7 @@ You need the **Owner** role so that in later modules you can give Data Factory a
 
 ## Step 4: Add the tags
 
-![Create a resource group: Tags tab](images/module-02/04-create-rg-tags.svg)
+![Create a resource group: Tags tab](images/module-02/04-create-rg-tags.png)
 
 1. Type the 4 tags one row at a time (🔴 1). A new empty row appears after each one.
 
@@ -128,7 +128,7 @@ You need the **Owner** role so that in later modules you can give Data Factory a
 
 ## Step 5: Review and create
 
-![Review + create](images/module-02/05-review-create.svg)
+![Review + create](images/module-02/05-review-create.png)
 
 1. Wait a few seconds until the green bar says **Validation passed** (🔴 1).
 2. Check the summary: name, region and the 4 tags.
@@ -141,7 +141,7 @@ You need the **Owner** role so that in later modules you can give Data Factory a
 
 ## Step 6: Check the resource group
 
-![Resource group overview](images/module-02/06-rg-overview.svg)
+![Resource group overview](images/module-02/06-rg-overview.png)
 
 Look at the **Overview** page of `rg-banking-dev`:
 
@@ -163,7 +163,7 @@ A **resource provider** is the Azure service behind each resource type. If it is
 1. Open **Subscriptions** (as in Step 2a) → click your subscription.
 2. In the left menu, scroll down to **Settings** → click **Resource providers**.
 
-![Resource providers](images/module-02/07-resource-providers.svg)
+![Resource providers](images/module-02/07-resource-providers.png)
 
 3. Do this for **each** provider in the table below:
    1. Type the provider name in the **filter box** (🔴 1).
@@ -199,7 +199,7 @@ A budget **emails you** when you spend money. It's your safety net if you forget
 2. In the left menu, under **Cost Management**, click **Budgets**.
 3. Click **+ Add**.
 
-![Create budget](images/module-02/08-budget-create.svg)
+![Create budget](images/module-02/08-budget-create.png)
 
 4. Fill in the form:
 
@@ -220,7 +220,7 @@ A budget **emails you** when you spend money. It's your safety net if you forget
 
 ## Step 9: Add the budget alerts
 
-![Budget alert conditions](images/module-02/09-budget-alerts.svg)
+![Budget alert conditions](images/module-02/09-budget-alerts.png)
 
 1. Under **Alert conditions** (🔴 1), add 4 rows:
 
@@ -246,7 +246,7 @@ A budget **emails you** when you spend money. It's your safety net if you forget
 
 In real jobs, engineers create Azure resources with **scripts**, because a script can be saved in Git and run again. Here you'll see that running the script on an existing group is **safe**: it just confirms what's there.
 
-![Cloud Shell](images/module-02/10-cloud-shell.svg)
+![Cloud Shell](images/module-02/10-cloud-shell.png)
 
 1. In the portal's top bar, click the **Cloud Shell** icon `>_` (next to the search bar).
 2. If it asks **Bash or PowerShell**, choose **Bash** (🔴 3).

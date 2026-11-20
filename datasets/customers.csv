@@ -1,0 +1,304 @@
+customer_id,first_name,last_name,date_of_birth,gender,email,phone,city,state,customer_segment,kyc_status,home_branch_id,created_date
+C00001,Aditya,Bose,1961-03-14,F,aditya.bose1@example.com,+91-9184611066,Ahmedabad,Gujarat,RETAIL,VERIFIED,BR010,2024-12-05
+C00002,Sneha,Chopra,1956-03-29,M,sneha.chopra2@example.com,+91-9810026086,Bengaluru,Karnataka,RETAIL,VERIFIED,BR002,2024-08-04
+C00003,Pari,Iyer,1974-12-09,F,pari.iyer3@example.com,+91-9782560971,Delhi,Delhi,PREMIUM,VERIFIED,BR006,2017-05-08
+C00004,Navya,Patel,1965-05-09,M,navya.patel4@example.com,+91-9275452091,Jaipur,Rajasthan,RETAIL,VERIFIED,BR015,2022-03-06
+C00005,Neha,Kulkarni,1955-01-07,M,not-an-email,+91-9982403818,Hyderabad,Telangana,RETAIL,VERIFIED,BR005,2015-09-29
+C00006,Saanvi,Chopra,1969-01-28,F,saanvi.chopra6@example.com,+91-9524806516,Hyderabad,Telangana,PREMIUM,VERIFIED,BR003,2017-12-20
+C00007,Ishaan,Kulkarni,1998-05-10,F,ishaan.kulkarni7@example.com,+91-9902099969,Ahmedabad,Gujarat,RETAIL,PENDING,BR007,2019-01-22
+C00008,Pari,Reddy,1994-04-11,M,pari.reddy8@example.com,+91-9911514914,Ahmedabad,Gujarat,RETAIL,VERIFIED,BR011,2016-10-17
+C00009,Meera,Bhat,1984-07-09,F,meera.bhat9@example.com,+91-9739830322,Pune,Maharashtra,CORPORATE,VERIFIED,BR009,2024-08-26
+C00010,Aarav,Iyer,1973-12-09,F,,+91-9219778234,Ahmedabad,Gujarat,RETAIL,VERIFIED,BR001,2025-09-11
+C00011,Anika,Kapoor,1995-07-19,M,anika.kapoor11@example.com,+91-9771410971,Nagpur,Maharashtra,RETAIL,VERIFIED,BR010,2017-03-25
+C00012,Rohan,Shah,1998-05-23,M,rohan.shah12@example.com,+91-9743111853,Nagpur,Maharashtra,RETAIL,VERIFIED,BR015,2019-01-26
+C00013,Riya,Kulkarni,1971-08-11,M,riya.kulkarni13@example.com,+91-9191969690,Mumbai,Maharashtra,PREMIUM,VERIFIED,BR013,2020-12-21
+C00014,Ishaan,Reddy,1999-04-29,M,ishaan.reddy14@example.com,+91-9384602384,Kolkata,West Bengal,RETAIL,VERIFIED,BR004,2025-06-01
+C00015,Manav,Gupta,1985-10-18,F,manav.gupta15@example.com,,Chennai,Tamil Nadu,PREMIUM,VERIFIED,BR004,2017-07-09
+C00016,Arjun,Mehta,2002-10-12,M,arjun.mehta16@example.com,+91-9731832764,Mumbai,Maharashtra,RETAIL,VERIFIED,BR011,2015-08-30
+C00017,Pari,Patel,1979-08-24,M,pari.patel17@example.com,+91-9652070932,Mumbai,Maharashtra,RETAIL,VERIFIED,BR004,2021-01-17
+C00018,Ishaan,Chopra,1992-05-28,M,ishaan.chopra18@example.com,+91-9942478695,Jaipur,Rajasthan,RETAIL,VERIFIED,BR002,2016-02-02
+C00019,Meera,Shah,1986-11-18,F,meera.shah19@example.com,+91-9882839238,Delhi,Delhi,RETAIL,VERIFIED,BR011,2016-02-08
+C00020,Vihaan,Rao,1990-02-30,M,vihaan.rao20@example.com,+91-9305718272,Hyderabad,Telangana,RETAIL,VERIFIED,BR007,2017-01-21
+C00021,Navya,Bose,1956-10-06,F,navya.bose21@example.com,+91-9967607278,Bengaluru,Karnataka,PREMIUM,VERIFIED,BR001,2022-04-25
+C00022,Manav,Sharma,1971-03-17,M,manav.sharma22@example.com,+91-9536383774,Pune,Maharashtra,RETAIL,VERIFIED,BR007,2025-02-13
+C00023,Vihaan,Nair,1950-03-12,F,vihaan.nair23@example.com,+91-9384759615,Delhi,Delhi,CORPORATE,VERIFIED,BR005,2019-09-29
+C00024,Neha,Das,1967-01-14,F,neha.das24@example.com,+91-9333754555,Nagpur,Maharashtra,CORPORATE,VERIFIED,BR009,2015-09-07
+C00025,Rahul,Verma,2030-05-01,F,rahul.verma25@example.com,+91-9639931481,Mumbai,Maharashtra,PREMIUM,VERIFIED,BR001,2025-10-10
+C00026,Harsh,Patel,1956-02-24,M,harsh.patel26@example.com,+91-9825003955,Nagpur,Maharashtra,PREMIUM,VERIFIED,BR015,2021-05-22
+C00027,Myra,Chopra,1953-07-26,M,myra.chopra27@example.com,+91-9550139320,Jaipur,Rajasthan,RETAIL,VERIFIED,BR006,2025-06-25
+C00028,Anika,Gupta,1971-06-01,F,anika.gupta28@example.com,+91-9524971817,Hyderabad,Telangana,RETAIL,VERIFIED,BR008,2018-07-19
+C00029,Arjun,Sharma,2000-07-05,M,arjun.sharma29@example.com,+91-9178663096,Kolkata,West Bengal,RETAIL,VERIFIED,BR003,2025-06-19
+C00030,  rahul ,SHARMA ,1983-02-25,F,amit.patel30@example.com,+91-9269379374,Bengaluru,Karnataka,RETAIL,VERIFIED,BR005,2021-11-10
+C00031,Isha,Sharma,1976-11-10,M,isha.sharma31@example.com,+91-9244193987,Ahmedabad,Gujarat,RETAIL,PENDING,BR012,2021-03-16
+C00032,Rohan,Deshmukh,2004-04-06,M,rohan.deshmukh32@example.com,+91-9870530217,Chennai,Tamil Nadu,RETAIL,VERIFIED,BR014,2017-12-17
+C00033,Harsh,Das,1954-07-23,M,harsh.das33@example.com,+91-9781057736,Chennai,Tamil Nadu,RETAIL,VERIFIED,BR001,2018-09-28
+C00034,Ishaan,Deshmukh,1989-08-22,F,ishaan.deshmukh34@example.com,+91-9702269164,Nagpur,Maharashtra,RETAIL,VERIFIED,BR015,2022-10-01
+C00035,Rohan,Malhotra,1983-02-15,Male,rohan.malhotra35@example.com,+91-9561479973,Mumbai,Maharashtra,RETAIL,VERIFIED,BR015,2025-06-18
+C00036,Aditya,Shah,1972-05-21,M,aditya.shah36@example.com,+91-9479759538,Bengaluru,Karnataka,PREMIUM,PENDING,BR007,2025-12-02
+C00037,Aditi,Reddy,1964-07-30,M,aditi.reddy37@example.com,+91-9542697755,Bengaluru,Karnataka,RETAIL,VERIFIED,BR006,2023-10-10
+C00038,Nikhil,Kulkarni,1964-04-13,M,nikhil.kulkarni38@example.com,+91-9510751046,Chennai,Tamil Nadu,PREMIUM,PENDING,BR004,2017-03-28
+C00039,Kavya,Shah,1970-06-02,M,kavya.shah39@example.com,+91-9125409494,Chennai,Tamil Nadu,RETAIL,VERIFIED,BR005,2024-09-10
+C00040,Arjun,Deshmukh,1995-09-14,,arjun.deshmukh40@example.com,+91-9829627019,Hyderabad,Telangana,CORPORATE,VERIFIED,BR001,2016-04-17
+C00041,Anika,Nair,1973-10-25,M,anika.nair41@example.com,+91-9216396351,Jaipur,Rajasthan,RETAIL,VERIFIED,BR013,2018-07-08
+C00042,Meera,Bhat,1960-05-17,F,meera.bhat42@example.com,+91-9719106699,Ahmedabad,Gujarat,RETAIL,VERIFIED,BR007,2015-01-07
+C00043,Isha,Malhotra,1982-09-04,F,isha.malhotra43@example.com,+91-9175133802,Bengaluru,Karnataka,CORPORATE,PENDING,BR010,2018-07-09
+C00044,Krishna,Joshi,1977-09-30,F,krishna.joshi44@example.com,+91-9450236225,Ahmedabad,Gujarat,RETAIL,VERIFIED,BR003,2017-02-24
+C00045,Nikhil,Rao,2001-01-21,F,nikhil.rao45@example.com,+91-9536019893,Nagpur,Maharashtra,RETAIL,verified,BR005,2017-05-10
+C00046,Meera,Chopra,1978-11-29,F,meera.chopra46@example.com,+91-9574364121,Jaipur,Rajasthan,RETAIL,VERIFIED,BR008,2023-11-26
+C00047,Ananya,Patel,1996-03-30,F,ananya.patel47@example.com,+91-9200273738,Chennai,Tamil Nadu,PREMIUM,VERIFIED,BR011,2018-06-25
+C00048,Pari,Gupta,1952-03-11,M,pari.gupta48@example.com,+91-9362897676,Nagpur,Maharashtra,CORPORATE,VERIFIED,BR013,2015-10-26
+C00049,Kavya,Pillai,1967-06-12,F,kavya.pillai49@example.com,+91-9630833445,Jaipur,Rajasthan,RETAIL,VERIFIED,BR012,2015-01-23
+C00050,Reyansh,Pillai,1965-10-12,F,reyansh.pillai50@example.com,+91-9153921577,Bengaluru,Karnataka,RETAIL,PENDING,BR999,2020-02-13
+C00051,Ishaan,Bose,2000-02-22,F,ishaan.bose51@example.com,+91-9910943524,Ahmedabad,Gujarat,PREMIUM,VERIFIED,BR012,2025-01-01
+C00052,Harsh,Pillai,1990-01-02,M,harsh.pillai52@example.com,+91-9898493949,Ahmedabad,Gujarat,PREMIUM,VERIFIED,BR013,2017-10-09
+C00053,Navya,Kapoor,1971-06-19,F,navya.kapoor53@example.com,+91-9572309605,Kolkata,West Bengal,RETAIL,VERIFIED,BR005,2018-10-07
+C00054,Rahul,Malhotra,1962-06-01,M,rahul.malhotra54@example.com,+91-9348315126,Pune,Maharashtra,RETAIL,VERIFIED,BR004,2015-09-21
+C00055,Nikhil,Pillai,15/08/1985,F,nikhil.pillai55@example.com,+91-9546434187,Hyderabad,Telangana,RETAIL,VERIFIED,BR007,2025-02-23
+C00056,Shreya,Sharma,1984-02-16,F,shreya.sharma56@example.com,+91-9106330865,Jaipur,Rajasthan,CORPORATE,VERIFIED,BR007,2024-07-27
+C00057,Nikhil,Malhotra,2004-02-14,M,nikhil.malhotra57@example.com,+91-9624232414,Ahmedabad,Gujarat,RETAIL,VERIFIED,BR001,2019-05-12
+C00058,Priya,Rao,1991-12-07,M,priya.rao58@example.com,+91-9768143326,Nagpur,Maharashtra,RETAIL,PENDING,BR010,2021-04-30
+C00059,Vivaan,Patel,1962-03-05,F,vivaan.patel59@example.com,+91-9295130056,Delhi,Delhi,RETAIL,VERIFIED,BR004,2020-02-06
+C00060,Rahul,Mehta,1974-12-18,F,rahul.mehta60@example.com,+91-9370874491,Delhi,Delhi,PREMIUM,VERIFIED,BR012,2021-01-18
+C00061,Vihaan,Shah,1956-02-27,M,vihaan.shah61@example.com,+91-9909851739,Bengaluru,Karnataka,RETAIL,VERIFIED,BR014,2015-03-25
+C00062,Aditi,Reddy,1961-04-29,F,aditi.reddy62@example.com,+91-9818825964,Bengaluru,Karnataka,RETAIL,PENDING,BR008,2022-11-05
+C00063,Anika,Shah,2004-05-10,M,anika.shah63@example.com,+91-9935147672,Nagpur,Maharashtra,PREMIUM,PENDING,BR002,2021-06-28
+C00064,Vivaan,Joshi,1983-09-03,F,vivaan.joshi64@example.com,+91-9867741192,Jaipur,Rajasthan,RETAIL,VERIFIED,BR014,2022-01-13
+C00065,Myra,Iyer,2003-11-13,M,myra.iyer65@example.com,+91-9954942461,Chennai,Tamil Nadu,CORPORATE,VERIFIED,BR006,2020-12-22
+C00066,Meera,Shah,1995-05-24,F,meera.shah66@example.com,+91-9113585139,Pune,Maharashtra,PREMIUM,VERIFIED,BR002,2019-11-11
+C00067,Sneha,Bose,1989-01-26,M,sneha.bose67@example.com,+91-9887906704,Nagpur,Maharashtra,RETAIL,VERIFIED,BR010,2024-01-24
+C00068,Manav,Das,1989-01-28,F,manav.das68@example.com,+91-9446071904,Kolkata,West Bengal,PREMIUM,VERIFIED,BR002,2018-02-16
+C00069,Varun,Kulkarni,2001-02-14,F,varun.kulkarni69@example.com,+91-9461203124,Kolkata,West Bengal,RETAIL,PENDING,BR003,2020-06-20
+C00070,Saanvi,Shah,1980-07-14,F,saanvi.shah70@example.com,+91-9740116562,Chennai,Tamil Nadu,PREMIUM,VERIFIED,BR001,2020-10-17
+C00071,Aadhya,Patel,1986-06-18,F,aadhya.patel71@example.com,+91-9696115913,Bengaluru,Karnataka,PREMIUM,VERIFIED,BR011,2022-12-25
+C00072,Tanvi,Bose,1958-05-08,F,tanvi.bose72@example.com,+91-9337937327,Mumbai,Maharashtra,RETAIL,VERIFIED,BR011,2021-07-10
+C00073,Sneha,Das,1997-08-19,F,sneha.das73@example.com,+91-9556881239,Ahmedabad,Gujarat,CORPORATE,VERIFIED,BR006,2022-11-18
+C00074,Kavya,Deshmukh,1972-07-21,M,kavya.deshmukh74@example.com,+91-9229553265,Chennai,Tamil Nadu,PREMIUM,VERIFIED,BR012,2021-01-03
+C00075,Diya,Gupta,1993-06-10,F,diya.gupta75@example.com,+91-9878017216,Bengaluru,Karnataka,RETAIL,VERIFIED,BR010,2018-03-05
+C00076,Reyansh,Gupta,1970-05-30,F,reyansh.gupta76@example.com,+91-9292673892,Chennai,Tamil Nadu,RETAIL,VERIFIED,BR003,2018-01-28
+C00077,Aditya,Verma,1976-03-17,M,aditya.verma77@example.com,+91-9784907325,Ahmedabad,Gujarat,PREMIUM,VERIFIED,BR014,2015-02-20
+C00078,Yash,Joshi,1992-12-12,F,yash.joshi78@example.com,+91-9465830215,Kolkata,West Bengal,RETAIL,VERIFIED,BR014,2020-05-10
+C00079,Krishna,Patel,1994-02-12,M,krishna.patel79@example.com,+91-9719571745,Delhi,Delhi,RETAIL,VERIFIED,BR003,2024-02-05
+C00080,Yash,Joshi,1972-04-07,M,yash.joshi80@example.com,+91-9699226355,Pune,Maharashtra,PREMIUM,VERIFIED,BR013,2021-12-08
+C00081,Pari,Kapoor,1990-06-02,F,pari.kapoor81@example.com,+91-9419280490,Delhi,Delhi,PREMIUM,REJECTED,BR005,2021-05-18
+C00082,Aditi,Verma,1958-11-26,M,aditi.verma82@example.com,+91-9771641650,Jaipur,Rajasthan,RETAIL,VERIFIED,BR003,2017-09-09
+C00083,Diya,Malhotra,1964-01-17,M,diya.malhotra83@example.com,+91-9538642403,Pune,Maharashtra,RETAIL,VERIFIED,BR005,2015-05-14
+C00084,Pari,Joshi,1990-09-25,M,pari.joshi84@example.com,+91-9838073939,Chennai,Tamil Nadu,RETAIL,VERIFIED,BR013,2022-01-04
+C00085,Shreya,Gupta,1960-04-18,M,shreya.gupta85@example.com,+91-9795392488,Delhi,Delhi,RETAIL,VERIFIED,BR003,2015-10-20
+C00086,Vihaan,Nair,2003-05-21,F,vihaan.nair86@example.com,+91-9571537429,Chennai,Tamil Nadu,RETAIL,VERIFIED,BR012,2019-07-07
+C00087,Navya,Kapoor,1994-04-20,F,navya.kapoor87@example.com,+91-9186373782,Ahmedabad,Gujarat,RETAIL,PENDING,BR012,2018-08-13
+C00088,Dev,Deshmukh,1958-03-12,M,dev.deshmukh88@example.com,+91-9824022357,Mumbai,Maharashtra,PREMIUM,VERIFIED,BR001,2023-07-30
+C00089,Navya,Chopra,1965-09-19,F,navya.chopra89@example.com,+91-9657233178,Mumbai,Maharashtra,RETAIL,PENDING,BR003,2021-07-25
+C00090,Meera,Das,1992-03-02,F,meera.das90@example.com,+91-9538460431,Pune,Maharashtra,RETAIL,VERIFIED,BR014,2016-10-20
+C00091,Priya,Pillai,1975-11-10,F,priya.pillai91@example.com,+91-9973559879,Kolkata,West Bengal,PREMIUM,VERIFIED,BR002,2018-07-12
+C00092,Anika,Mehta,1986-04-06,M,anika.mehta92@example.com,+91-9806157458,Pune,Maharashtra,PREMIUM,VERIFIED,BR001,2017-02-07
+C00093,Isha,Shah,1994-09-21,F,isha.shah93@example.com,+91-9916033628,Jaipur,Rajasthan,RETAIL,VERIFIED,BR003,2025-05-27
+C00094,Kiara,Bose,1960-11-22,M,kiara.bose94@example.com,+91-9776481264,Kolkata,West Bengal,RETAIL,VERIFIED,BR003,2018-06-26
+C00095,Neha,Sharma,1986-08-09,M,neha.sharma95@example.com,+91-9341270488,Ahmedabad,Gujarat,CORPORATE,PENDING,BR008,2025-08-15
+C00096,Krishna,Reddy,1976-03-08,F,krishna.reddy96@example.com,+91-9546129354,Kolkata,West Bengal,PREMIUM,REJECTED,BR004,2020-02-14
+C00097,Neha,Reddy,1967-02-06,M,neha.reddy97@example.com,+91-9174958005,Delhi,Delhi,RETAIL,VERIFIED,BR007,2018-10-24
+C00098,Harsh,Deshmukh,1975-05-18,F,harsh.deshmukh98@example.com,+91-9999232921,Mumbai,Maharashtra,RETAIL,REJECTED,BR008,2024-09-14
+C00099,Rohan,Bose,1993-06-14,F,rohan.bose99@example.com,+91-9456954682,Ahmedabad,Gujarat,RETAIL,VERIFIED,BR008,2025-06-17
+C00100,Rahul,Gupta,2001-04-19,F,rahul.gupta100@example.com,+91-9350785761,Bengaluru,Karnataka,PREMIUM,VERIFIED,BR006,2023-05-09
+C00101,Siddharth,Rao,1963-08-25,F,siddharth.rao101@example.com,+91-9139749508,Delhi,Delhi,RETAIL,PENDING,BR006,2024-10-02
+C00102,Reyansh,Bose,1997-03-09,F,reyansh.bose102@example.com,+91-9116479358,Pune,Maharashtra,PREMIUM,VERIFIED,BR011,2025-11-16
+C00103,Rohan,Patel,1973-10-11,F,rohan.patel103@example.com,+91-9769219685,Kolkata,West Bengal,RETAIL,VERIFIED,BR014,2018-09-07
+C00104,Manav,Rao,1993-10-11,M,manav.rao104@example.com,+91-9762992051,Hyderabad,Telangana,RETAIL,VERIFIED,BR015,2018-03-23
+C00105,Pari,Patel,1958-10-31,M,pari.patel105@example.com,+91-9576396216,Delhi,Delhi,RETAIL,VERIFIED,BR001,2015-07-08
+C00106,Rahul,Verma,1982-02-28,F,rahul.verma106@example.com,+91-9562446417,Chennai,Tamil Nadu,RETAIL,VERIFIED,BR010,2022-08-24
+C00107,Diya,Nair,1957-01-31,F,diya.nair107@example.com,+91-9765408938,Nagpur,Maharashtra,RETAIL,VERIFIED,BR010,2016-08-09
+C00108,Pari,Bose,1991-03-26,F,pari.bose108@example.com,+91-9816014770,Chennai,Tamil Nadu,RETAIL,VERIFIED,BR015,2018-03-24
+C00109,Manav,Nair,1989-08-18,F,manav.nair109@example.com,+91-9730900313,Pune,Maharashtra,RETAIL,PENDING,BR012,2017-10-21
+C00110,Kavya,Joshi,1984-07-06,F,kavya.joshi110@example.com,+91-9214518079,Bengaluru,Karnataka,RETAIL,VERIFIED,BR010,2018-04-26
+C00111,Kiara,Sharma,1974-08-17,M,kiara.sharma111@example.com,+91-9707661655,Delhi,Delhi,PREMIUM,VERIFIED,BR001,2025-03-18
+C00112,Dev,Das,1970-08-24,F,dev.das112@example.com,+91-9335154329,Chennai,Tamil Nadu,RETAIL,VERIFIED,BR011,2023-06-22
+C00113,Ishaan,Iyer,1977-09-19,F,ishaan.iyer113@example.com,+91-9135824891,Mumbai,Maharashtra,RETAIL,VERIFIED,BR002,2025-03-14
+C00114,Kiara,Mehta,1965-10-04,M,kiara.mehta114@example.com,+91-9241905500,Delhi,Delhi,PREMIUM,PENDING,BR006,2020-12-14
+C00115,Harsh,Deshmukh,1973-01-20,F,harsh.deshmukh115@example.com,+91-9965960427,Nagpur,Maharashtra,RETAIL,PENDING,BR013,2016-04-16
+C00116,Kavya,Patel,1970-03-29,F,kavya.patel116@example.com,+91-9963919401,Nagpur,Maharashtra,RETAIL,VERIFIED,BR007,2015-02-27
+C00117,Anika,Malhotra,1990-10-20,F,anika.malhotra117@example.com,+91-9822443971,Pune,Maharashtra,PREMIUM,VERIFIED,BR007,2024-03-22
+C00118,Sneha,Iyer,1992-04-19,M,sneha.iyer118@example.com,+91-9765233376,Bengaluru,Karnataka,PREMIUM,VERIFIED,BR015,2021-11-03
+C00119,Pari,Patel,1977-02-10,F,pari.patel119@example.com,+91-9225279834,Kolkata,West Bengal,RETAIL,PENDING,BR005,2020-07-10
+C00120,Krishna,Iyer,1998-03-24,M,krishna.iyer120@example.com,+91-9517305280,Bengaluru,Karnataka,RETAIL,VERIFIED,BR012,2022-10-23
+C00121,Manav,Pillai,1963-11-12,F,manav.pillai121@example.com,+91-9803217037,Jaipur,Rajasthan,RETAIL,VERIFIED,BR007,2025-07-13
+C00122,Navya,Verma,1969-06-29,F,navya.verma122@example.com,+91-9577488537,Hyderabad,Telangana,CORPORATE,PENDING,BR002,2025-12-31
+C00123,Sneha,Malhotra,1955-06-08,F,sneha.malhotra123@example.com,+91-9396225446,Hyderabad,Telangana,RETAIL,VERIFIED,BR014,2024-03-29
+C00124,Kavya,Patel,2003-07-29,M,kavya.patel124@example.com,+91-9154308262,Bengaluru,Karnataka,PREMIUM,VERIFIED,BR003,2023-10-29
+C00125,Yash,Gupta,1999-09-21,M,yash.gupta125@example.com,+91-9729624046,Pune,Maharashtra,RETAIL,PENDING,BR006,2023-09-07
+C00126,Rohan,Bhat,1974-11-16,M,rohan.bhat126@example.com,+91-9239577989,Mumbai,Maharashtra,RETAIL,VERIFIED,BR002,2022-05-31
+C00127,Vivaan,Reddy,1982-02-20,M,vivaan.reddy127@example.com,+91-9732276010,Mumbai,Maharashtra,RETAIL,VERIFIED,BR001,2016-06-03
+C00128,Nikhil,Kapoor,1955-09-14,F,nikhil.kapoor128@example.com,+91-9581331845,Pune,Maharashtra,PREMIUM,VERIFIED,BR002,2020-01-26
+C00129,Harsh,Kulkarni,1953-11-21,F,harsh.kulkarni129@example.com,+91-9591819409,Jaipur,Rajasthan,RETAIL,VERIFIED,BR008,2024-07-02
+C00130,Pooja,Pillai,1993-12-26,F,pooja.pillai130@example.com,+91-9178910051,Pune,Maharashtra,PREMIUM,VERIFIED,BR003,2015-09-27
+C00131,Ishaan,Deshmukh,2002-07-08,F,ishaan.deshmukh131@example.com,+91-9508992977,Jaipur,Rajasthan,CORPORATE,VERIFIED,BR008,2020-09-01
+C00132,Dev,Pillai,1960-04-07,M,dev.pillai132@example.com,+91-9561784080,Pune,Maharashtra,RETAIL,VERIFIED,BR006,2024-04-12
+C00133,Kavya,Rao,1958-07-13,F,kavya.rao133@example.com,+91-9558234365,Delhi,Delhi,RETAIL,VERIFIED,BR003,2022-09-14
+C00134,Siddharth,Patel,1957-08-29,M,siddharth.patel134@example.com,+91-9563723880,Pune,Maharashtra,RETAIL,VERIFIED,BR013,2016-06-16
+C00135,Neha,Verma,2000-05-20,F,neha.verma135@example.com,+91-9819421270,Jaipur,Rajasthan,RETAIL,VERIFIED,BR011,2025-07-21
+C00136,Meera,Verma,2003-11-13,F,meera.verma136@example.com,+91-9477577220,Chennai,Tamil Nadu,RETAIL,VERIFIED,BR003,2022-05-13
+C00137,Siddharth,Kulkarni,1981-05-30,F,siddharth.kulkarni137@example.com,+91-9223357166,Pune,Maharashtra,PREMIUM,VERIFIED,BR013,2019-10-24
+C00138,Neha,Bhat,1999-12-13,M,neha.bhat138@example.com,+91-9753903309,Jaipur,Rajasthan,CORPORATE,VERIFIED,BR005,2015-04-29
+C00139,Diya,Deshmukh,1980-06-27,F,diya.deshmukh139@example.com,+91-9106556040,Chennai,Tamil Nadu,RETAIL,VERIFIED,BR011,2019-06-30
+C00140,Arjun,Reddy,1958-03-26,M,arjun.reddy140@example.com,+91-9503935666,Mumbai,Maharashtra,RETAIL,VERIFIED,BR006,2018-06-30
+C00141,Rahul,Chopra,1957-08-15,M,rahul.chopra141@example.com,+91-9267052653,Jaipur,Rajasthan,RETAIL,VERIFIED,BR011,2015-12-01
+C00142,Navya,Bose,1993-07-28,F,navya.bose142@example.com,+91-9544726404,Delhi,Delhi,RETAIL,VERIFIED,BR002,2018-11-14
+C00143,Meera,Iyer,2003-03-19,F,meera.iyer143@example.com,+91-9665791188,Chennai,Tamil Nadu,RETAIL,VERIFIED,BR007,2021-09-20
+C00144,Vihaan,Sharma,1977-01-15,M,vihaan.sharma144@example.com,+91-9923935280,Bengaluru,Karnataka,RETAIL,VERIFIED,BR006,2016-05-06
+C00145,Aarav,Das,1965-10-06,M,aarav.das145@example.com,+91-9508244633,Delhi,Delhi,RETAIL,VERIFIED,BR009,2024-05-06
+C00146,Amit,Patel,1953-10-18,F,amit.patel146@example.com,+91-9120123575,Delhi,Delhi,RETAIL,VERIFIED,BR006,2021-06-16
+C00147,Meera,Chopra,1987-06-22,F,meera.chopra147@example.com,+91-9223666470,Delhi,Delhi,RETAIL,PENDING,BR003,2023-12-27
+C00148,Aditi,Bose,1957-11-27,F,aditi.bose148@example.com,+91-9213669678,Hyderabad,Telangana,RETAIL,VERIFIED,BR009,2015-11-19
+C00149,Pooja,Joshi,1969-11-17,F,pooja.joshi149@example.com,+91-9936571442,Hyderabad,Telangana,RETAIL,VERIFIED,BR002,2020-12-13
+C00150,Harsh,Gupta,1981-07-01,M,harsh.gupta150@example.com,+91-9353691745,Hyderabad,Telangana,RETAIL,VERIFIED,BR003,2021-10-03
+C00151,Rohan,Patel,1994-05-01,F,rohan.patel151@example.com,+91-9910080036,Nagpur,Maharashtra,RETAIL,VERIFIED,BR011,2025-05-13
+C00152,Yash,Bhat,1978-05-13,M,yash.bhat152@example.com,+91-9572191734,Hyderabad,Telangana,RETAIL,VERIFIED,BR005,2023-12-06
+C00153,Navya,Chopra,1981-07-29,M,navya.chopra153@example.com,+91-9433297890,Mumbai,Maharashtra,RETAIL,VERIFIED,BR006,2024-04-29
+C00154,Kiara,Patel,2003-04-19,F,kiara.patel154@example.com,+91-9596832859,Pune,Maharashtra,RETAIL,PENDING,BR012,2025-01-17
+C00155,Aditya,Bose,1966-11-21,F,aditya.bose155@example.com,+91-9749620068,Jaipur,Rajasthan,RETAIL,VERIFIED,BR001,2020-01-20
+C00156,Reyansh,Mehta,1995-04-08,M,reyansh.mehta156@example.com,+91-9142028540,Pune,Maharashtra,RETAIL,VERIFIED,BR008,2020-11-16
+C00157,Isha,Bhat,1982-08-25,F,isha.bhat157@example.com,+91-9403754671,Nagpur,Maharashtra,RETAIL,VERIFIED,BR011,2021-09-14
+C00158,Vihaan,Mehta,1979-07-31,M,vihaan.mehta158@example.com,+91-9699108439,Pune,Maharashtra,RETAIL,VERIFIED,BR012,2024-07-20
+C00159,Dev,Reddy,1957-04-24,M,dev.reddy159@example.com,+91-9475617211,Hyderabad,Telangana,RETAIL,VERIFIED,BR011,2019-05-25
+C00160,Ishaan,Bhat,1977-10-10,F,ishaan.bhat160@example.com,+91-9790945624,Pune,Maharashtra,PREMIUM,VERIFIED,BR011,2022-11-18
+C00161,Isha,Patel,1995-08-15,F,isha.patel161@example.com,+91-9119574893,Delhi,Delhi,RETAIL,VERIFIED,BR004,2018-10-31
+C00162,Tanvi,Gupta,1962-05-05,M,tanvi.gupta162@example.com,+91-9182855381,Bengaluru,Karnataka,RETAIL,VERIFIED,BR009,2023-08-24
+C00163,Manav,Kapoor,1980-03-19,M,manav.kapoor163@example.com,+91-9741288486,Mumbai,Maharashtra,RETAIL,VERIFIED,BR014,2022-10-08
+C00164,Aditi,Nair,1953-12-02,F,aditi.nair164@example.com,+91-9491163514,Kolkata,West Bengal,RETAIL,VERIFIED,BR008,2021-11-05
+C00165,Kiara,Bose,1997-11-28,M,kiara.bose165@example.com,+91-9432288618,Bengaluru,Karnataka,CORPORATE,VERIFIED,BR015,2024-05-13
+C00166,Aadhya,Shah,1989-07-12,F,aadhya.shah166@example.com,+91-9926178355,Jaipur,Rajasthan,RETAIL,VERIFIED,BR009,2019-09-11
+C00167,Ananya,Gupta,1962-06-02,F,ananya.gupta167@example.com,+91-9156027635,Jaipur,Rajasthan,RETAIL,PENDING,BR009,2025-06-23
+C00168,Reyansh,Kapoor,1975-07-29,M,reyansh.kapoor168@example.com,+91-9919390458,Pune,Maharashtra,RETAIL,VERIFIED,BR009,2016-08-26
+C00169,Meera,Patel,1990-06-22,F,meera.patel169@example.com,+91-9128636900,Bengaluru,Karnataka,RETAIL,VERIFIED,BR006,2017-08-23
+C00170,Karan,Patel,1970-02-22,M,karan.patel170@example.com,+91-9442185272,Hyderabad,Telangana,CORPORATE,VERIFIED,BR011,2018-10-05
+C00171,Rohan,Reddy,1975-09-27,F,rohan.reddy171@example.com,+91-9847401602,Mumbai,Maharashtra,PREMIUM,VERIFIED,BR008,2020-01-12
+C00172,Aditi,Sharma,1951-09-15,F,aditi.sharma172@example.com,+91-9331557515,Pune,Maharashtra,PREMIUM,VERIFIED,BR012,2021-10-29
+C00173,Isha,Pillai,1975-11-06,M,isha.pillai173@example.com,+91-9423358638,Pune,Maharashtra,RETAIL,VERIFIED,BR011,2023-11-26
+C00174,Aditi,Bose,1959-12-12,F,aditi.bose174@example.com,+91-9740743666,Pune,Maharashtra,RETAIL,VERIFIED,BR010,2017-09-17
+C00175,Rohan,Joshi,1950-02-21,F,rohan.joshi175@example.com,+91-9358303887,Delhi,Delhi,RETAIL,VERIFIED,BR011,2015-12-17
+C00176,Isha,Shah,1997-03-12,M,isha.shah176@example.com,+91-9519246503,Pune,Maharashtra,PREMIUM,VERIFIED,BR007,2019-03-10
+C00177,Anika,Sharma,1956-01-23,F,anika.sharma177@example.com,+91-9358906986,Hyderabad,Telangana,PREMIUM,VERIFIED,BR013,2021-07-11
+C00178,Priya,Reddy,1981-08-10,F,priya.reddy178@example.com,+91-9973498494,Mumbai,Maharashtra,RETAIL,VERIFIED,BR011,2020-03-18
+C00179,Siddharth,Nair,1955-08-30,F,siddharth.nair179@example.com,+91-9139711044,Nagpur,Maharashtra,RETAIL,VERIFIED,BR004,2024-12-07
+C00180,Aditya,Mehta,1996-03-28,F,aditya.mehta180@example.com,+91-9975535611,Chennai,Tamil Nadu,RETAIL,VERIFIED,BR013,2022-04-03
+C00181,Aadhya,Joshi,1954-04-16,F,aadhya.joshi181@example.com,+91-9393364102,Hyderabad,Telangana,RETAIL,VERIFIED,BR015,2019-06-27
+C00182,Varun,Rao,1966-10-05,F,varun.rao182@example.com,+91-9843102880,Hyderabad,Telangana,RETAIL,PENDING,BR009,2017-12-28
+C00183,Sai,Pillai,1988-08-19,M,sai.pillai183@example.com,+91-9685698675,Pune,Maharashtra,RETAIL,VERIFIED,BR006,2022-05-31
+C00184,Kiara,Joshi,2004-01-24,F,kiara.joshi184@example.com,+91-9278933456,Kolkata,West Bengal,RETAIL,VERIFIED,BR001,2023-02-25
+C00185,Amit,Bhat,1974-08-19,M,amit.bhat185@example.com,+91-9180574838,Delhi,Delhi,RETAIL,VERIFIED,BR009,2023-12-26
+C00186,Ananya,Sharma,2004-07-04,F,ananya.sharma186@example.com,+91-9137365109,Nagpur,Maharashtra,RETAIL,VERIFIED,BR011,2019-02-09
+C00187,Sneha,Rao,1952-11-27,M,sneha.rao187@example.com,+91-9829137330,Jaipur,Rajasthan,RETAIL,VERIFIED,BR008,2023-07-23
+C00188,Arjun,Chopra,1997-07-02,F,arjun.chopra188@example.com,+91-9527385805,Nagpur,Maharashtra,RETAIL,VERIFIED,BR002,2015-04-17
+C00189,Diya,Das,1984-09-19,M,diya.das189@example.com,+91-9381080560,Ahmedabad,Gujarat,PREMIUM,VERIFIED,BR004,2021-11-11
+C00190,Kiara,Das,1961-01-01,M,kiara.das190@example.com,+91-9179512774,Bengaluru,Karnataka,RETAIL,PENDING,BR008,2015-12-26
+C00191,Rahul,Shah,1999-05-06,F,rahul.shah191@example.com,+91-9422076028,Pune,Maharashtra,PREMIUM,VERIFIED,BR015,2022-11-08
+C00192,Diya,Shah,1970-02-12,M,diya.shah192@example.com,+91-9315801027,Ahmedabad,Gujarat,PREMIUM,VERIFIED,BR008,2015-04-18
+C00193,Sneha,Malhotra,1983-02-05,F,sneha.malhotra193@example.com,+91-9962925204,Jaipur,Rajasthan,CORPORATE,VERIFIED,BR015,2015-12-20
+C00194,Arjun,Joshi,1992-12-10,F,arjun.joshi194@example.com,+91-9925884151,Delhi,Delhi,RETAIL,VERIFIED,BR003,2025-11-26
+C00195,Rahul,Patel,1991-10-17,F,rahul.patel195@example.com,+91-9237798236,Kolkata,West Bengal,PREMIUM,VERIFIED,BR011,2021-08-04
+C00196,Diya,Reddy,1995-02-11,M,diya.reddy196@example.com,+91-9992699085,Delhi,Delhi,RETAIL,VERIFIED,BR003,2016-10-25
+C00197,Rahul,Kulkarni,1996-07-21,F,rahul.kulkarni197@example.com,+91-9184675178,Hyderabad,Telangana,RETAIL,VERIFIED,BR009,2018-01-29
+C00198,Ishaan,Joshi,1997-11-11,M,ishaan.joshi198@example.com,+91-9639633807,Jaipur,Rajasthan,RETAIL,VERIFIED,BR010,2016-09-23
+C00199,Ananya,Bhat,1980-04-16,M,ananya.bhat199@example.com,+91-9986090690,Jaipur,Rajasthan,PREMIUM,VERIFIED,BR011,2023-08-25
+C00200,Yash,Deshmukh,2001-04-30,F,yash.deshmukh200@example.com,+91-9763688866,Bengaluru,Karnataka,RETAIL,VERIFIED,BR011,2021-02-12
+C00201,Kiara,Joshi,1971-12-21,F,kiara.joshi201@example.com,+91-9419367188,Kolkata,West Bengal,RETAIL,VERIFIED,BR003,2019-12-06
+C00202,Nikhil,Das,1968-04-21,F,nikhil.das202@example.com,+91-9751396498,Kolkata,West Bengal,RETAIL,PENDING,BR006,2023-03-27
+C00203,Amit,Rao,1983-03-30,M,amit.rao203@example.com,+91-9442648079,Nagpur,Maharashtra,RETAIL,VERIFIED,BR008,2017-10-12
+C00204,Rohan,Iyer,1976-01-14,F,rohan.iyer204@example.com,+91-9760756497,Mumbai,Maharashtra,RETAIL,PENDING,BR015,2016-10-16
+C00205,Rahul,Chopra,1967-01-12,M,rahul.chopra205@example.com,+91-9635008544,Hyderabad,Telangana,CORPORATE,VERIFIED,BR015,2018-06-17
+C00206,Tanvi,Sharma,1985-04-12,F,tanvi.sharma206@example.com,+91-9358480413,Pune,Maharashtra,RETAIL,VERIFIED,BR001,2018-02-26
+C00207,Tanvi,Bhat,1975-08-21,M,tanvi.bhat207@example.com,+91-9215424112,Kolkata,West Bengal,RETAIL,PENDING,BR012,2019-02-07
+C00208,Pooja,Shah,1985-12-09,M,pooja.shah208@example.com,+91-9712335251,Mumbai,Maharashtra,RETAIL,VERIFIED,BR005,2015-10-29
+C00209,Karan,Kapoor,1999-05-01,F,karan.kapoor209@example.com,+91-9986171278,Kolkata,West Bengal,CORPORATE,VERIFIED,BR002,2016-06-11
+C00210,Reyansh,Rao,1980-06-03,F,reyansh.rao210@example.com,+91-9910637681,Hyderabad,Telangana,RETAIL,VERIFIED,BR007,2020-08-10
+C00211,Aditya,Verma,1962-04-18,F,aditya.verma211@example.com,+91-9963251765,Mumbai,Maharashtra,RETAIL,VERIFIED,BR010,2025-01-06
+C00212,Harsh,Reddy,1978-07-30,M,harsh.reddy212@example.com,+91-9521931770,Hyderabad,Telangana,CORPORATE,VERIFIED,BR005,2021-08-28
+C00213,Priya,Kapoor,1997-10-04,F,priya.kapoor213@example.com,+91-9861003571,Ahmedabad,Gujarat,RETAIL,VERIFIED,BR001,2019-02-17
+C00214,Priya,Iyer,2002-05-14,F,priya.iyer214@example.com,+91-9955508961,Delhi,Delhi,PREMIUM,PENDING,BR011,2015-04-20
+C00215,Dev,Das,2001-11-24,M,dev.das215@example.com,+91-9874597473,Chennai,Tamil Nadu,RETAIL,VERIFIED,BR009,2022-01-20
+C00216,Aditi,Rao,1971-09-24,M,aditi.rao216@example.com,+91-9714792641,Nagpur,Maharashtra,CORPORATE,VERIFIED,BR001,2019-12-12
+C00217,Rahul,Pillai,1987-01-18,M,rahul.pillai217@example.com,+91-9540639384,Nagpur,Maharashtra,RETAIL,VERIFIED,BR008,2024-10-15
+C00218,Vihaan,Reddy,1968-08-08,F,vihaan.reddy218@example.com,+91-9811060614,Ahmedabad,Gujarat,RETAIL,VERIFIED,BR003,2020-02-26
+C00219,Manav,Mehta,1981-10-14,F,manav.mehta219@example.com,+91-9755064741,Ahmedabad,Gujarat,RETAIL,PENDING,BR005,2021-04-04
+C00220,Riya,Kulkarni,1975-12-06,M,riya.kulkarni220@example.com,+91-9841139461,Chennai,Tamil Nadu,PREMIUM,VERIFIED,BR006,2021-04-14
+C00221,Navya,Joshi,2001-06-13,F,navya.joshi221@example.com,+91-9523625992,Pune,Maharashtra,PREMIUM,PENDING,BR013,2016-08-22
+C00222,Kiara,Verma,1957-02-02,F,kiara.verma222@example.com,+91-9574997731,Chennai,Tamil Nadu,RETAIL,VERIFIED,BR004,2017-04-07
+C00223,Manav,Deshmukh,1974-05-15,M,manav.deshmukh223@example.com,+91-9217281149,Ahmedabad,Gujarat,RETAIL,VERIFIED,BR004,2015-07-27
+C00224,Isha,Kulkarni,1954-09-17,M,isha.kulkarni224@example.com,+91-9543778963,Bengaluru,Karnataka,RETAIL,VERIFIED,BR011,2023-08-24
+C00225,Ishaan,Sharma,1964-03-03,F,ishaan.sharma225@example.com,+91-9801038300,Ahmedabad,Gujarat,CORPORATE,PENDING,BR008,2022-04-18
+C00226,Aadhya,Joshi,1975-08-10,M,aadhya.joshi226@example.com,+91-9925412179,Hyderabad,Telangana,RETAIL,VERIFIED,BR009,2023-04-14
+C00227,Aditya,Nair,1965-10-09,M,aditya.nair227@example.com,+91-9997866344,Delhi,Delhi,RETAIL,VERIFIED,BR015,2023-05-26
+C00228,Kiara,Verma,1976-10-08,M,kiara.verma228@example.com,+91-9459748735,Mumbai,Maharashtra,RETAIL,REJECTED,BR009,2020-11-17
+C00229,Tanvi,Reddy,1991-12-28,F,tanvi.reddy229@example.com,+91-9307029662,Ahmedabad,Gujarat,PREMIUM,VERIFIED,BR012,2020-02-23
+C00230,Anika,Nair,1980-03-30,F,anika.nair230@example.com,+91-9709650444,Mumbai,Maharashtra,RETAIL,VERIFIED,BR010,2024-08-07
+C00231,Pooja,Pillai,1979-06-03,M,pooja.pillai231@example.com,+91-9530391423,Ahmedabad,Gujarat,RETAIL,VERIFIED,BR003,2020-05-09
+C00232,Rahul,Kulkarni,1973-05-25,F,rahul.kulkarni232@example.com,+91-9352889019,Mumbai,Maharashtra,RETAIL,VERIFIED,BR006,2018-05-21
+C00233,Shreya,Chopra,1973-06-19,F,shreya.chopra233@example.com,+91-9843854609,Mumbai,Maharashtra,RETAIL,VERIFIED,BR008,2018-06-10
+C00234,Ananya,Rao,1977-11-25,M,ananya.rao234@example.com,+91-9785811060,Ahmedabad,Gujarat,PREMIUM,VERIFIED,BR010,2017-06-23
+C00235,Pari,Reddy,1963-09-29,F,pari.reddy235@example.com,+91-9902874167,Kolkata,West Bengal,CORPORATE,VERIFIED,BR012,2021-02-27
+C00236,Siddharth,Malhotra,1972-03-14,M,siddharth.malhotra236@example.com,+91-9664258474,Bengaluru,Karnataka,RETAIL,VERIFIED,BR002,2025-04-15
+C00237,Yash,Iyer,1999-02-18,M,yash.iyer237@example.com,+91-9714933740,Mumbai,Maharashtra,RETAIL,VERIFIED,BR014,2020-11-01
+C00238,Varun,Iyer,2002-04-26,F,varun.iyer238@example.com,+91-9197647841,Bengaluru,Karnataka,PREMIUM,VERIFIED,BR001,2020-02-01
+C00239,Ishaan,Kapoor,1990-12-25,M,ishaan.kapoor239@example.com,+91-9700003920,Delhi,Delhi,RETAIL,VERIFIED,BR012,2015-03-31
+C00240,Pooja,Deshmukh,1969-07-20,M,pooja.deshmukh240@example.com,+91-9148629555,Mumbai,Maharashtra,RETAIL,VERIFIED,BR009,2015-09-04
+C00241,Arjun,Das,1975-10-04,F,arjun.das241@example.com,+91-9293253475,Mumbai,Maharashtra,PREMIUM,VERIFIED,BR012,2022-03-30
+C00242,Nikhil,Shah,1990-03-29,F,nikhil.shah242@example.com,+91-9503346325,Delhi,Delhi,RETAIL,PENDING,BR014,2021-01-17
+C00243,Ishaan,Shah,1966-01-05,F,ishaan.shah243@example.com,+91-9667840357,Pune,Maharashtra,RETAIL,REJECTED,BR014,2015-01-15
+C00244,Vivaan,Joshi,1998-11-05,F,vivaan.joshi244@example.com,+91-9671159367,Kolkata,West Bengal,RETAIL,VERIFIED,BR008,2018-11-18
+C00245,Rohan,Deshmukh,1960-02-15,M,rohan.deshmukh245@example.com,+91-9969170578,Bengaluru,Karnataka,RETAIL,VERIFIED,BR015,2024-11-28
+C00246,Vivaan,Kulkarni,1956-01-14,M,vivaan.kulkarni246@example.com,+91-9737742679,Bengaluru,Karnataka,RETAIL,VERIFIED,BR012,2024-10-12
+C00247,Vihaan,Kulkarni,1986-02-02,F,vihaan.kulkarni247@example.com,+91-9351619881,Mumbai,Maharashtra,RETAIL,VERIFIED,BR013,2015-08-20
+C00248,Ishaan,Kapoor,1971-01-04,F,ishaan.kapoor248@example.com,+91-9720058859,Chennai,Tamil Nadu,RETAIL,VERIFIED,BR006,2017-08-28
+C00249,Riya,Reddy,1969-10-31,F,riya.reddy249@example.com,+91-9422660441,Ahmedabad,Gujarat,RETAIL,VERIFIED,BR010,2024-11-12
+C00250,Diya,Pillai,1994-06-19,M,diya.pillai250@example.com,+91-9469812603,Ahmedabad,Gujarat,CORPORATE,VERIFIED,BR013,2020-11-18
+C00251,Rahul,Pillai,1963-05-22,F,rahul.pillai251@example.com,+91-9504221050,Delhi,Delhi,RETAIL,VERIFIED,BR004,2024-07-10
+C00252,Pari,Joshi,1991-07-17,M,pari.joshi252@example.com,+91-9703857319,Nagpur,Maharashtra,RETAIL,VERIFIED,BR009,2016-07-03
+C00253,Karan,Kulkarni,1968-03-29,F,karan.kulkarni253@example.com,+91-9794395127,Chennai,Tamil Nadu,RETAIL,VERIFIED,BR006,2016-01-14
+C00254,Manav,Gupta,1974-01-31,F,manav.gupta254@example.com,+91-9823349713,Mumbai,Maharashtra,RETAIL,VERIFIED,BR002,2017-02-09
+C00255,Shreya,Malhotra,1993-01-03,M,shreya.malhotra255@example.com,+91-9457517705,Bengaluru,Karnataka,RETAIL,PENDING,BR004,2025-07-05
+C00256,Aadhya,Iyer,1971-10-07,M,aadhya.iyer256@example.com,+91-9525880424,Kolkata,West Bengal,PREMIUM,VERIFIED,BR013,2018-03-05
+C00257,Karan,Bose,1982-03-26,F,karan.bose257@example.com,+91-9380849661,Ahmedabad,Gujarat,RETAIL,PENDING,BR008,2016-02-08
+C00258,Siddharth,Mehta,1983-04-05,F,siddharth.mehta258@example.com,+91-9544454140,Bengaluru,Karnataka,RETAIL,PENDING,BR012,2016-08-20
+C00259,Vivaan,Deshmukh,2002-05-25,F,vivaan.deshmukh259@example.com,+91-9416960306,Ahmedabad,Gujarat,RETAIL,VERIFIED,BR007,2021-05-22
+C00260,Myra,Das,1980-04-14,F,myra.das260@example.com,+91-9919652226,Ahmedabad,Gujarat,PREMIUM,PENDING,BR011,2023-04-18
+C00261,Tanvi,Bose,1981-08-06,M,tanvi.bose261@example.com,+91-9250279322,Nagpur,Maharashtra,PREMIUM,VERIFIED,BR015,2024-12-21
+C00262,Manav,Verma,1953-01-13,M,manav.verma262@example.com,+91-9978316418,Ahmedabad,Gujarat,RETAIL,VERIFIED,BR007,2016-07-17
+C00263,Pari,Patel,1950-10-27,M,pari.patel263@example.com,+91-9643026584,Nagpur,Maharashtra,RETAIL,VERIFIED,BR011,2022-06-24
+C00264,Aditi,Das,1951-05-31,M,aditi.das264@example.com,+91-9671458801,Kolkata,West Bengal,RETAIL,VERIFIED,BR009,2023-02-06
+C00265,Navya,Malhotra,1951-07-16,F,navya.malhotra265@example.com,+91-9965615974,Chennai,Tamil Nadu,CORPORATE,VERIFIED,BR015,2016-01-30
+C00266,Isha,Reddy,1967-03-22,F,isha.reddy266@example.com,+91-9975329786,Bengaluru,Karnataka,RETAIL,VERIFIED,BR002,2019-03-09
+C00267,Pooja,Bose,1971-10-27,M,pooja.bose267@example.com,+91-9422095317,Jaipur,Rajasthan,RETAIL,VERIFIED,BR011,2024-08-16
+C00268,Aditya,Patel,1984-01-10,F,aditya.patel268@example.com,+91-9693458652,Delhi,Delhi,RETAIL,VERIFIED,BR012,2016-12-02
+C00269,Sai,Das,1979-09-21,M,sai.das269@example.com,+91-9667106600,Delhi,Delhi,PREMIUM,VERIFIED,BR015,2024-09-25
+C00270,Yash,Das,1954-03-06,M,yash.das270@example.com,+91-9834899763,Chennai,Tamil Nadu,CORPORATE,PENDING,BR010,2022-05-19
+C00271,Aditya,Nair,1951-05-29,M,aditya.nair271@example.com,+91-9730325223,Hyderabad,Telangana,RETAIL,VERIFIED,BR014,2019-06-20
+C00272,Arjun,Joshi,2000-08-05,M,arjun.joshi272@example.com,+91-9708485104,Nagpur,Maharashtra,PREMIUM,VERIFIED,BR015,2021-01-23
+C00273,Priya,Rao,1957-01-13,F,priya.rao273@example.com,+91-9157656107,Nagpur,Maharashtra,RETAIL,VERIFIED,BR002,2018-10-27
+C00274,Dev,Bhat,1985-08-04,F,dev.bhat274@example.com,+91-9131810311,Jaipur,Rajasthan,RETAIL,VERIFIED,BR008,2020-07-02
+C00275,Pari,Shah,1983-09-06,F,pari.shah275@example.com,+91-9299434489,Ahmedabad,Gujarat,RETAIL,VERIFIED,BR002,2023-08-29
+C00276,Aditi,Joshi,1956-08-05,M,aditi.joshi276@example.com,+91-9387732777,Bengaluru,Karnataka,RETAIL,VERIFIED,BR011,2016-09-23
+C00277,Karan,Mehta,1959-07-24,M,karan.mehta277@example.com,+91-9105578324,Hyderabad,Telangana,CORPORATE,VERIFIED,BR013,2018-01-09
+C00278,Reyansh,Reddy,1966-10-24,F,reyansh.reddy278@example.com,+91-9581942228,Pune,Maharashtra,RETAIL,VERIFIED,BR002,2015-04-18
+C00279,Sai,Shah,1958-05-08,F,sai.shah279@example.com,+91-9513646070,Ahmedabad,Gujarat,RETAIL,VERIFIED,BR013,2015-12-13
+C00280,Neha,Kulkarni,1996-10-01,M,neha.kulkarni280@example.com,+91-9835852444,Jaipur,Rajasthan,RETAIL,VERIFIED,BR005,2018-01-04
+C00281,Tanvi,Reddy,1965-01-01,F,tanvi.reddy281@example.com,+91-9396311802,Pune,Maharashtra,RETAIL,VERIFIED,BR002,2019-01-19
+C00282,Anika,Kulkarni,2003-04-10,M,anika.kulkarni282@example.com,+91-9591625191,Kolkata,West Bengal,RETAIL,VERIFIED,BR007,2018-09-22
+C00283,Aditi,Rao,1989-06-30,F,aditi.rao283@example.com,+91-9562370643,Hyderabad,Telangana,PREMIUM,PENDING,BR010,2016-07-11
+C00284,Riya,Mehta,1968-01-08,F,riya.mehta284@example.com,+91-9437351729,Jaipur,Rajasthan,RETAIL,VERIFIED,BR006,2018-04-08
+C00285,Tanvi,Chopra,1979-03-28,F,tanvi.chopra285@example.com,+91-9400969989,Bengaluru,Karnataka,PREMIUM,VERIFIED,BR002,2025-06-14
+C00286,Yash,Gupta,1998-12-14,M,yash.gupta286@example.com,+91-9831983367,Jaipur,Rajasthan,PREMIUM,VERIFIED,BR012,2020-03-05
+C00287,Saanvi,Bose,1956-03-16,F,saanvi.bose287@example.com,+91-9822604249,Chennai,Tamil Nadu,RETAIL,VERIFIED,BR004,2017-10-31
+C00288,Rohan,Pillai,1956-08-20,F,rohan.pillai288@example.com,+91-9742026586,Delhi,Delhi,RETAIL,VERIFIED,BR009,2025-05-10
+C00289,Nikhil,Malhotra,1982-04-04,M,nikhil.malhotra289@example.com,+91-9217434526,Mumbai,Maharashtra,PREMIUM,VERIFIED,BR006,2016-11-12
+C00290,Aditi,Verma,1985-11-07,F,aditi.verma290@example.com,+91-9954946593,Jaipur,Rajasthan,RETAIL,VERIFIED,BR005,2017-06-28
+C00291,Harsh,Kapoor,2002-01-30,M,harsh.kapoor291@example.com,+91-9578651079,Ahmedabad,Gujarat,RETAIL,VERIFIED,BR011,2021-08-07
+C00292,Harsh,Reddy,1952-03-15,F,harsh.reddy292@example.com,+91-9212259020,Hyderabad,Telangana,RETAIL,PENDING,BR002,2016-04-20
+C00293,Rohan,Shah,1980-10-11,F,rohan.shah293@example.com,+91-9942103498,Chennai,Tamil Nadu,RETAIL,VERIFIED,BR008,2016-02-04
+C00294,Varun,Bose,1956-01-11,F,varun.bose294@example.com,+91-9147978060,Hyderabad,Telangana,PREMIUM,VERIFIED,BR014,2018-11-06
+C00295,Reyansh,Nair,1996-04-17,M,reyansh.nair295@example.com,+91-9692609167,Bengaluru,Karnataka,RETAIL,VERIFIED,BR008,2017-08-07
+C00296,Pooja,Nair,1988-10-08,F,pooja.nair296@example.com,+91-9131344962,Nagpur,Maharashtra,PREMIUM,PENDING,BR008,2021-08-22
+C00297,Meera,Rao,1969-04-09,M,meera.rao297@example.com,+91-9398870482,Mumbai,Maharashtra,PREMIUM,VERIFIED,BR002,2021-06-22
+C00298,Reyansh,Malhotra,1982-10-26,F,reyansh.malhotra298@example.com,+91-9311606895,Nagpur,Maharashtra,RETAIL,VERIFIED,BR014,2020-06-27
+C00299,Isha,Mehta,1984-11-12,F,isha.mehta299@example.com,+91-9730291513,Jaipur,Rajasthan,RETAIL,VERIFIED,BR008,2021-12-03
+C00300,Diya,Joshi,2002-12-12,M,diya.joshi300@example.com,+91-9821672704,Jaipur,Rajasthan,RETAIL,VERIFIED,BR005,2016-04-24
+C00060,Rahul,Mehta,1974-12-18,F,rahul.mehta60@example.com,+91-9370874491,Delhi,Delhi,PREMIUM,VERIFIED,BR012,2021-01-18
+C00065,Myra,Iyer,2003-11-13,M,myra.iyer65@example.com,+91-9000000001,Chennai,Tamil Nadu,CORPORATE,VERIFIED,BR006,2020-12-22
+,Ghost,Bose,1961-03-14,F,aditya.bose1@example.com,+91-9184611066,Ahmedabad,Gujarat,RETAIL,VERIFIED,BR010,2024-12-05
